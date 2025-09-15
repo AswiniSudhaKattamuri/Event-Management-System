@@ -53,8 +53,34 @@ The objective is to **design and implement a Salesforce CRM solution** that enab
 
 ---
 
+## 📂 Phase-wise Progress
+
+### 🔹 Phase 1 – Requirement Gathering & Design
+- Understood the **problem statement** and identified event management challenges.  
+- Defined the **objectives and scope** of the solution.  
+- Designed the **data model** (Events, Participants, Sponsors, Resources).  
+- Documented the **features and workflows** required in Salesforce.  
+
+📁 Deliverables:  
+- Project proposal & requirement document.  
+- Initial GitHub repo setup with project overview.  
+
+---
+
+### 🔹 Phase 2 – Salesforce Setup & Configuration
+- Created a **new Salesforce Lightning App**: *Event Management System*.  
+- Built **custom objects** like Event Details, Participant Info, and Sponsors.  
+- Added **custom fields** (date, picklist, text, relationships).  
+- Created **tabs** for easy navigation of custom objects.  
+- Configured **profiles/permissions** for controlled access.  
+- Captured **screenshots** of setup (available in `/Phase2_Salesforce_Setup/` folder).  
+
+📁 Deliverables:  
+- Salesforce app configuration screenshots.  
+- Updated GitHub repo with Phase 2 documentation.  
+
+---
 
 ## 👨‍💻 Author
-This project is developed as part of **TCS Lastmile Salesforce Capstone Project (Phase 2)**.  
-Repo maintained by: Kattamuri Aswini Sudha  
-
+This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
+Repo maintained by: **Kattamuri Aswini Sudha**  
