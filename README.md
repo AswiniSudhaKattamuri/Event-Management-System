@@ -94,6 +94,23 @@ Prepared reports and dashboards based on the new data model.
 
 Phase3_Event_Management_Data_Modeling.pdf added to repository.
 Updated README with Phase 3 progress and screenshots 
+------------------------------------------------------------------
+Phase 4 – Event Management Process Automation
+Implemented process automation to streamline event booking and management tasks. Configured validation rules, approval processes, flows, and notifications:
+
+* Validation Rules: Ensured End Date is after Start Date.
+* Record-Triggered Flow: Automatically calculated Total Amount for bookings.
+* Screen Flow: Created booking form for user input.
+* Create Records: Saved booking details to the Booking object.
+* Approval Process: High-value bookings (>₹50,000) sent for Manager approval.
+* Final Approval Actions: Updated Booking Status to Confirmed, sent emails to Customer and Agent, and created task for Agent to prepare the car.
+* Email Alerts: Notified Customer and Agent after approval.
+* Tasks: Assigned to Agent to prepare resources.
+* Optional Custom Notifications: Sent in-app alerts to Agent if supported.
+
+📁 Deliverables:
+Phase4\_Event\_Management\_Process\_Automation.docx added to repository. Updated README with Phase 4 progress and screenshots.
+
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
