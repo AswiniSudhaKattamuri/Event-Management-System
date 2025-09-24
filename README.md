@@ -81,7 +81,7 @@ The objective is to **design and implement a Salesforce CRM solution** that enab
 
 ---
 
-🔹 Phase 3 – Event Management Data Modeling
+**🔹 Phase 3 – Event Management Data Modeling**  
 Designed and implemented the data model for comprehensive event tracking.
 Created custom objects and defined relationships:
 - Event__c → EventRegistration__c (Master-Detail)
