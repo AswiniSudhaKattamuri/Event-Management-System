@@ -92,8 +92,6 @@ Ensured data integrity with validation rules and proper field types.
 Prepared reports and dashboards based on the new data model.
 📁 Deliverables:
 
-Phase3_Event_Management_Data_Modeling.pdf added to repository.
-Updated README with Phase 3 progress and screenshots 
 ------------------------------------------------------------------
 Phase 4 – Event Management Process Automation
 Implemented process automation to streamline event booking and management tasks. Configured validation rules, approval processes, flows, and notifications:
@@ -110,6 +108,29 @@ Implemented process automation to streamline event booking and management tasks.
 
 📁 Deliverables:
 Phase4\_Event\_Management\_Process\_Automation.docx added to repository. Updated README with Phase 4 progress and screenshots.
+
+---------------------------------------------------------------
+# Event Management System - Phase 5 Apex Programming
+
+**Phase 5 – Apex Programming (Developer)**
+
+Added advanced Apex logic to improve event booking:
+
+* **BookingService**: reusable booking validation.
+* **Trigger**: prevent overlapping registrations.
+* **Batch Apex**: mark overdue registrations nightly.
+* **Queueable Apex**: async discount calculation.
+* **Scheduled Apex**: daily email of today's registrations.
+* **Future Method**: call external insurance API.
+* **Exception Handling**: catch booking overlap errors.
+* **Test Classes**: Batch, Queueable, and Future covered.
+
+## 📁 Deliverables:
+
+* `Phase5_Apex_Programming_Event_Management.docx` with code & screenshots.
+* Updated README with Phase 5 progress.
+
+**Status:** Phase 5 complete.
 
 
 ## 👨‍💻 Author
