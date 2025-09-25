@@ -201,7 +201,13 @@ Monitor bookings and secure data access.
 * Set **Bookings object** to Private and **Events object** to Public.
 * Agent users assigned to **Agent profile**, restricted to view only their bookings.
 
-**Status:** Phase 9 in progress; basic reporting and security config
+**Status:** Phase 9 completed.
+-------------------------------------------------------------------
+Phase 10 – Final Presentation & Demo
+
+Project: Event Management System 
+Author: Aswini Sudha Kattamuri 
+
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
