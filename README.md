@@ -93,8 +93,7 @@ Prepared reports and dashboards based on the new data model.
 📁 Deliverables:
 
 ------------------------------------------------------------------
-Phase 4 – Event Management Process Automation
-Implemented process automation to streamline event booking and management tasks. Configured validation rules, approval processes, flows, and notifications:
+Phase 4 – Phase 4: Process Automation (Admin)
 
 * Validation Rules: Ensured End Date is after Start Date.
 * Record-Triggered Flow: Automatically calculated Total Amount for bookings.
@@ -130,8 +129,37 @@ Added advanced Apex logic to improve event booking:
 * `Phase5_Apex_Programming_Event_Management.docx` with code & screenshots.
 * Updated README with Phase 5 progress.
 
-**Status:** Phase 5 complete.
+-------------------------------------------------------
+Phase 6 – User Interface Development (Developer / Admin)
 
+Enhanced the Event Management app for better usability:
+
+Lightning App Builder: created Event Management App with tabs for Events & Bookings.
+
+Record Pages: Event page shows related bookings.
+
+Home Page Layouts: dashboard of upcoming events & bookings summary.
+
+Utility Bar: added quick “New Booking” action.
+
+LWC Components:
+
+Search Events by Date (child → parent communication).
+
+Datatable shows upcoming events with “Book Now” button.
+
+Apex with LWC: Imperative call to create booking.
+
+Navigation Service: after booking, navigate to Booking record page.
+
+Wire Adapters: fetch upcoming events dynamically.
+
+📁 Deliverables:
+Phase6_UI_Development_Event_Management.docx with code, screenshots & Lightning pages.
+Updated README with Phase 6 progress.
+
+Status: Phase 6 complete
+--------------------------------------------------------
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
