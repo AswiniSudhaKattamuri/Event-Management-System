@@ -186,6 +186,22 @@ Manage data for the Event Management app and ensure bookings are correctly added
 
 **Status:** Phase 8 completed.
 
+-------------------------------------------------------------
+## README – Phase 9: Reporting & Security (Event Management App)
+
+### **Objective:**
+
+Monitor bookings and secure data access.
+
+### **Key Points:**
+
+* Created **Bookings by Event**, **Revenue by Event**, and **Upcoming Bookings** reports.
+* Added **Bar chart** and **Table** components in dashboard.
+* Applied **filters** to show specific events and upcoming bookings.
+* Set **Bookings object** to Private and **Events object** to Public.
+* Agent users assigned to **Agent profile**, restricted to view only their bookings.
+
+**Status:** Phase 9 in progress; basic reporting and security config
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
