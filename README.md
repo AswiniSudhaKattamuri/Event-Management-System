@@ -170,6 +170,22 @@ Status: Phase 6 complete
 * Skipped optional features: Platform Events, Change Data Capture, Salesforce Connect, OAuth.
 * Phase 7 complete and tested successfully.
 
+------------------------------------------------------------
+## README – Phase 8: Data Management (Event Management App)
+
+### **Objective:**
+
+Manage data for the Event Management app and ensure bookings are correctly added.
+
+### **Key Points:**
+
+* Added **50 demo Booking records** directly using Data Import Wizard.
+* Verified that all records appear in the **Bookings object**.
+* Ensured triggers and validations work properly on imported bookings.
+* Optional steps like **Duplicate Rules, Data Loader, Backups, Change Sets, Packages, ANT, VS Code/SFDX** were skipped.
+
+**Status:** Phase 8 completed.
+
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
