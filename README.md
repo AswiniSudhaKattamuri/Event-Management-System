@@ -160,6 +160,16 @@ Updated README with Phase 6 progress.
 
 Status: Phase 6 complete
 --------------------------------------------------------
+ Phase 7: External System Integration (Event Management App)
+
+* Integrated Event Management app with an external insurance API.
+* Created **Named Credential** `BookingServiceAPI` for secure authentication.
+* Implemented **Apex class** `InsuranceServiceApex` for REST callouts.
+* Added **BookingInsuranceTrigger** to call API after booking creation.
+* Added **BookingValidationTrigger** to prevent overlapping bookings and validate End Date > Start Date.
+* Skipped optional features: Platform Events, Change Data Capture, Salesforce Connect, OAuth.
+* Phase 7 complete and tested successfully.
+
 
 ## 👨‍💻 Author
 This project is developed as part of **TCS Lastmile Salesforce Capstone Project**.  
